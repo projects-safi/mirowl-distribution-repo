@@ -13,7 +13,7 @@ mirowl is a privacy-first AI assistant that transforms your messy folders of scr
 ## 🚀 Download & Installation
 
 1. Go to the [Releases Page](../../releases/latest).
-2. **For macOS:** Download `mirowl_X.X.X_universal.dmg` (Works for both Apple Silicon and Intel).
+2. **For macOS:** Download `mirowl_1.0.0_universal.dmg` (Works for both Apple Silicon and Intel).
    - Open the `.dmg` and drag **mirowl** to your Applications folder.
    - mirowl is **Apple-Notarized**, so it will run immediately without security warnings.
 3. Launch mirowl. It will guide you through a 1-minute onboarding to select your "Watch Folders" (like Desktop or Downloads).
