@@ -1,15 +1,15 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "notes": "Bug fix",
-  "pub_date": "2026-04-21T12:00:00Z",
+  "pub_date": "2026-04-27T12:00:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRTBFR0xkVDFKM1lvcDdCUlArMzhWUnFacmU4UlIrNHBVWDBwaFFYYkRpaU80R2xhSGNCUnZ3T2tzTU1JRnJ4SkxzVDVFaXEzU3ZYYklqL1J1K0Jpby9TUFE4bzJvb3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzQ3MzQ5CWZpbGU6bWlyb3dsLmFwcC50YXIuZ3oKS24zdHVDNjVwSzZqY0tvY2pVL3dSYzdVMVVmS0pMVk5KVEdJMDhpVU5pNExwWmVVSTlwZk5IVkJTVWlodWZJUGRIRFNVR3VvcEJYcXFZeDRSNExGQ3c9PQo=",
-      "url": "https://github.com/projects-safi/mirowl-distribution-repo/releases/download/v1.1.4/mirowl_1.1.4_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRTBFR0xkVDFKM1N5UHJTN21EL0kxM1g1Zmh3R0d1NXJoSmFGbEpoN0Mrd21vaEdPSGtuNElSU1pRWENVWXRwa0lTTHJkVDhmcUJLZ2R4WkprQnNBeVRhaWhKOTFHeXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjY5MDk5CWZpbGU6bWlyb3dsLmFwcC50YXIuZ3oKck5SaXFmb3hsVlIwWUt6OVlOS1lySm9aeTdnVWpIL3EzZGRsc2o1NHRaNTVOK0xkQkt0bkNDUmpvMG01UXVhMXBKTmkrRHNxVU9aanZtVFBKb3pvQmc9PQo=",
+      "url": "https://github.com/projects-safi/mirowl-distribution-repo/releases/download/v1.1.5/mirowl_1.1.5_universal.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRTBFR0xkVDFKM1lvcDdCUlArMzhWUnFacmU4UlIrNHBVWDBwaFFYYkRpaU80R2xhSGNCUnZ3T2tzTU1JRnJ4SkxzVDVFaXEzU3ZYYklqL1J1K0Jpby9TUFE4bzJvb3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzQ3MzQ5CWZpbGU6bWlyb3dsLmFwcC50YXIuZ3oKS24zdHVDNjVwSzZqY0tvY2pVL3dSYzdVMVVmS0pMVk5KVEdJMDhpVU5pNExwWmVVSTlwZk5IVkJTVWlodWZJUGRIRFNVR3VvcEJYcXFZeDRSNExGQ3c9PQo=",
-      "url": "https://github.com/projects-safi/mirowl-distribution-repo/releases/download/v1.1.4/mirowl_1.1.4_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRTBFR0xkVDFKM1N5UHJTN21EL0kxM1g1Zmh3R0d1NXJoSmFGbEpoN0Mrd21vaEdPSGtuNElSU1pRWENVWXRwa0lTTHJkVDhmcUJLZ2R4WkprQnNBeVRhaWhKOTFHeXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MjY5MDk5CWZpbGU6bWlyb3dsLmFwcC50YXIuZ3oKck5SaXFmb3hsVlIwWUt6OVlOS1lySm9aeTdnVWpIL3EzZGRsc2o1NHRaNTVOK0xkQkt0bkNDUmpvMG01UXVhMXBKTmkrRHNxVU9aanZtVFBKb3pvQmc9PQo=",
+      "url": "https://github.com/projects-safi/mirowl-distribution-repo/releases/download/v1.1.5/mirowl_1.1.5_universal.app.tar.gz"
     }
   }
 }
